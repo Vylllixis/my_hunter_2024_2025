@@ -93,12 +93,6 @@ Afficher l'aide :
 
 ---
 
-## 📝 Licence
-
-Ce projet est sous **licence MIT**. Voir `LICENSE` pour plus d’informations.
-
----
-
 ## 👨‍💻 Crédits
 
 Développé par **Théo Moitrier-Cabodi** dans le cadre d’un projet scolaire. 🚀
